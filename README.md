@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaypkallega, Jayaprakash Kallega
-- 👀 I’m interested in microcontroller programming like Ardunio and ESP 32, Visual Basic, VB.NET, C, C++ and Python
+- 👀 I’m interested in microcontroller programming like Ardunio and ESP 32. I am interested in Visual Basic, VB.NET, C, C++ and Python
 - 🌱 I’m currently learning Arduino and ESP 32
 - 💞 I’m looking to collaborate on microcontrollers and Python
 - 📫 How to reach me : I am on linkedin
